@@ -1,0 +1,9 @@
+# Local builds and working disk images
+/build/
+/config/*.local.bxrc
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
