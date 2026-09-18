@@ -58,8 +58,10 @@ bochs -f config/bochsrc.bxrc
 │   └── assets/                 # 8086 寄存器与复位状态参考图
 ├── references/                 # 手册、补充文档及汇编清单
 ├── tools/                      # 原有辅助工具归档
+├── README.md
 ├── CHANGELOG.md
 ├── VERSION
+├── .gitignore
 └── LICENSE
 ```
 
