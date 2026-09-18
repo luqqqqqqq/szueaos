@@ -88,6 +88,8 @@ bochs -f config/bochsrc.bxrc
 
 感谢 [NASM](https://www.nasm.us/) 与 [Bochs](https://bochs.sourceforge.io/) 项目提供汇编与模拟工具，以及参考资料原作者提供的处理器与系统编程资料。
 
+本仓库的 README、文档与目录结构采用作者的 `github-repo-template` 统一模板，通过 Codex 技能维护。
+
 ## 许可证
 
 项目代码采用 [GNU GPL-3.0](LICENSE)。收录的处理器手册、教材、图片和工具归档保留各自作者的版权与许可，项目许可证不替代这些资料原有的授权条件。
