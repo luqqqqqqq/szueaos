@@ -7,4 +7,4 @@
 - [NASM](https://www.nasm.us/)
 - [Bochs](https://bochs.sourceforge.io/)
 
-写盘对象为仓库的 `build/hard_disk.vhd` 工作文件，扇区位置见 [运行指南](../docs/getting-started.md)。
+写盘对象为仓库的 `build/hard_disk.vhd` 工作文件，扇区位置见 [开发指南](../docs/development.md)。

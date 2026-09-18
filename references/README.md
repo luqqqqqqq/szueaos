@@ -1,6 +1,6 @@
 # 学习资料索引
 
-当前运行入口见 [编译、运行与调试](../docs/getting-started.md)，现有代码行为见 [引导流程](../docs/boot-flow.md)。本目录和下列笔记用于学习与查阅。
+运行入口见 [快速开始](../docs/getting-started.md)，汇编与调试见 [开发指南](../docs/development.md)，现有代码行为见 [引导流程](../docs/boot-flow.md)。本目录和下列笔记用于学习与查阅。
 
 ## 学习笔记
 

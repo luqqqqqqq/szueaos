@@ -1,6 +1,6 @@
 # 当前源码的引导流程
 
-本文只描述 [`mbr.asm`](../boot/mbr.asm) 和 [`loader.asm`](../boot/loader.asm) 中的现有实现。
+本文只描述 [`mbr.asm`](../src/boot/mbr.asm) 和 [`loader.asm`](../src/boot/loader.asm) 中的现有实现。
 
 ```mermaid
 flowchart LR
